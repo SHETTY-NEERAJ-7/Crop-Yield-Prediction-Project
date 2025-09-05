@@ -1,5 +1,5 @@
 # Crop Yield Prediction
-<img src = "https://img.in-part.com/resize?stripmeta=true&noprofile=true&quality=95&url=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fassets.in-part.com%2Ftechnologies%2Fheader-images%2F2aVv2twTYW9qZGGhPrxw_AdobeStock_241906053.jpeg&width=1200&height=820" width = "700" height = "500">
+<img src = "Crop Image.jpg" width = "700" height = "500">
 
 The aim of this data science project is to predict crop yield using the dataset provided from Crop Yield Prediction. The dataset includes various environmental and agricultural factors such as rainfall, temperature, fertilizer usage, and macronutrient levels, along with the corresponding crop yield in Quintals per acre.
 
